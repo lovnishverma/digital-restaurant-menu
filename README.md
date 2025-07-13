@@ -9,9 +9,13 @@ A **responsive digital menu** designed for restaurants, cafes, or food businesse
 ## 🚀 Features
 
 ✅ Fullscreen, mobile-friendly image carousel
+
 ✅ Clean and minimalistic design
+
 ✅ Easy to update menu images
+
 ✅ Smooth navigation with Bootstrap controls
+
 ✅ Ready to deploy on any static web hosting
 
 ---
