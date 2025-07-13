@@ -2,7 +2,10 @@
 
 A **responsive digital menu** designed for restaurants, cafes, or food businesses. Built with **Bootstrap 4** and includes a **full-screen carousel** to display your food and drink offerings visually.
 
-![Preview](https://cdn.glitch.global/e9c71af1-92e9-47c4-bc4c-89216db142ae/1.png?v=1717395779074)
+SCAN OR TO VIEW MENU
+
+![QR](<img width="450" height="450" alt="qrcode_lovnishverma github io" src="https://github.com/user-attachments/assets/b065860d-f326-49fe-98d7-580e8c19ad03" />
+)
 
 ---
 
