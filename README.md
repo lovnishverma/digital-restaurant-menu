@@ -4,8 +4,8 @@ A **responsive digital menu** designed for restaurants, cafes, or food businesse
 
 SCAN OR TO VIEW MENU
 
-![QR](<img width="450" height="450" alt="qrcode_lovnishverma github io" src="https://github.com/user-attachments/assets/b065860d-f326-49fe-98d7-580e8c19ad03" />
-)
+<img width="450" height="450" alt="qrcode_lovnishverma github io" src="https://github.com/user-attachments/assets/ab2012ae-5fbf-4df6-8f6d-76dd33818fc2" />
+
 
 ---
 
