@@ -50,8 +50,8 @@ A **responsive digital menu** designed for restaurants, cafes, or food businesse
 ### 1️⃣ Clone this Repository:
 
 ```bash
-git clone https://github.com/yourusername/q-star-menu.git
-cd q-star-menu
+git clone https://github.com/lovnishverma/digital-restaurant-menu.git
+cd digital-restaurant-menu
 ```
 
 ### 2️⃣ Open `index.html` in your browser.
