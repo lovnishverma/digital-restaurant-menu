@@ -112,7 +112,10 @@ Bootstrap Carousel is from [getbootstrap.com](https://getbootstrap.com).
 
 ---
 
-## 🌟 Live Demo (Optional)
+## 🌟 Live Demo: https://www.lovnishverma.in/digital-restaurant-menu/
+
+<img width="602" height="847" alt="image" src="https://github.com/user-attachments/assets/dc1ca319-bbe5-4bf4-a47b-ec2f765c05a0" />
+
 
 **If deployed on Glitch, Vercel, Netlify, or GitHub Pages, add the link here.**
 Example:
